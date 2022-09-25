@@ -1,0 +1,72 @@
+[
+	{
+		"user":{
+			"name":"Gauransh Arora",
+			"type":"Developer",
+			"email":"gauransh@gmail.com"
+			}
+	},
+	{
+		"user":{
+			"name":"Shriya Khanna",
+			"type":"Project Manager",
+			"email":"shriya@gmail.com"
+			}
+	},
+	{
+		"user":{
+			"name":"Akshit ",
+			"type":"Developer",
+			"email":"akshit@gmail.com"
+			}
+	},
+	{
+		"user":{
+			"name":"Simran",
+			"type":"Tester",
+			"email":"simran@gmail.com"
+			}
+	},
+	{
+		"user":{
+			"name":"Manvi",
+			"type":"Developer",
+			"email":"manvi@gmail.com"
+			}
+	},
+	{
+		"user":{
+			"name":"Chaitali",
+			"type":"Tester",
+			"email":"chaitali@gmail.com"
+			}
+	},
+	{
+		"user":{
+			"name":"Akansha",
+			"type":"Project Manager",
+			"email":"akansha@gmail.com"
+			}
+	},
+	{
+		"user":{
+			"name":"Jay",
+			"type":"Tester",
+			"email":"jay@gmail.com"
+			}
+	},
+	{
+		"user":{
+			"name":"Dev",
+			"type":"Developer",
+			"email":"dev@gmail.com"
+			}
+	},
+	{
+		"user":{
+			"name":"Pranav",
+			"type":"Tester",
+			"email":"pranav@gmail.com"
+			}
+	}
+]

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <title>Register</title>
+    <link rel="stylesheet" href="styles.css" media="screen">
+<link rel="stylesheet" href="Register.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js"></script>
+    <script class="u-script" type="text/javascript" src="script.js"></script>
+    <meta name="generator" content="Nicepage 4.18.5, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Register">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body u-xl-mode" data-lang="en"><header class="u-black u-clearfix u-header u-header" id="sec-68d0"><div class="u-clearfix u-sheet u-sheet-1">
+        <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
+            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-palette-2-base" href="#" style="padding: 10px 20px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-palette-2-base" href="Import-User.html" style="padding: 10px 20px;">Import User</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-palette-2-base" href="Login.html" style="padding: 10px 20px;">Login</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-palette-2-base" href="Register.html" style="padding: 10px 20px;">Register</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">Home</a>
+					</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Import-User.html">Import User</a>
+					</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Login.html">Login</a>
+					</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Register.html">Register</a>
+					</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>
+    <section class="u-clearfix u-white u-section-1" id="sec-8dea">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h3 class="u-text u-text-default u-text-1">Register</h3>
+        <div class="u-form u-form-1">
+          <form action="register" method="post" class="u-clearfix u-form-custom-backend u-form-spacing-10 u-form-vertical u-inner-form" source="custom" name="form-2" style="padding: 10px;" redirect="true">
+            <div class="u-form-group u-form-group-1">
+              <label for="text-6657" class="u-label">Role</label>
+              <br>
+              <input type="radio" id="text-6657" value="Project Manager" name="role"  required="required">Project Manager
+              <input type="radio" id="text-6657" name="role" value="Developer" required="required">Developer
+              <input type="radio" id="text-6657" name="role" value="Tester"  required="required">Tester
+            </div>
+            <div class="u-form-email u-form-group">
+              <label for="email-a920" class="u-label">Email</label>
+              <input type="email" placeholder="Enter a valid email address" id="email-a920" name="email" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
+            </div>
+            <div class="u-form-group u-form-group-3">
+              <label for="text-d8d7" class="u-label">Create Password</label>
+              <input type="text" placeholder="Enter password" id="text-d8d7" name="password" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="required">
+            </div>
+            <div class="u-form-group u-form-group-4">
+              <label for="text-79c2" class="u-label">Confirm Password</label>
+              <input type="text" placeholder="Confirm Password" id="text-79c2" name="password-1" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="required">
+            </div>
+            <div class="u-align-center u-form-group u-form-submit">
+            <input type="submit" value="submit" class="u-border-none u-btn u-btn-round u-btn-submit u-button-style u-hover-palette-1-light-2 u-radius-50">
+            </div>
+            
+          </form>
+        </div>
+      </div>
+    </section>
+    
+    
+    <footer class="u-align-center u-black u-clearfix u-footer u-footer" id="sec-aebe"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">BugByte</p>
+      </div></footer>
+    
+  
+</body></html>

@@ -1,0 +1,137 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 446px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 326px;
+  font-size: 3rem;
+  background-image: none;
+  font-weight: 700;
+  margin: 87px auto 0;
+}
+
+.u-section-1 .u-table-1 {
+  width: 774px;
+  margin: 58px auto 60px;
+}
+
+.u-block-5957-4 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.u-block-5957-60 {
+  font-weight: 700;
+  background-image: none;
+}
+
+.u-block-5957-61 {
+  font-weight: 700;
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-1 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-table-cell-3 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-table-cell-5 {
+  font-weight: 700;
+}
+
+.u-block-5957-35 {
+  background-image: none;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-table-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-table-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-table-1 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 424px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  width: 289px;
+  margin: 66px auto 0;
+}
+
+.u-section-2 .u-table-1 {
+  width: 1075px;
+  margin: 18px auto 60px;
+}
+
+.u-block-cc6f-4 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.u-block-cc6f-62 {
+  font-weight: 700;
+  background-image: none;
+}
+
+.u-block-cc6f-61 {
+  font-weight: 700;
+  background-image: none;
+}
+
+.u-section-2 .u-table-cell-1 {
+  font-weight: 700;
+}
+
+.u-section-2 .u-table-cell-2 {
+  font-weight: 700;
+}
+
+.u-block-cc6f-35 {
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-table-1 {
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-table-1 {
+    margin-top: 111px;
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-table-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-table-1 {
+    margin-top: 137px;
+    width: 340px;
+  }
+}
